@@ -6,7 +6,7 @@
         "target": {
             "namespace": "android_app",
             "package_name": "com.example.deep_link",
-            "sha256_cert_fingerprints": ["<Your App’s SHA256 fingerprint>"]
+            "sha256_cert_fingerprints": ["02:EC:3D:E6:FE:F5:BA:60:85:31:5A:AF:DA:97:56:7F:4E:EE:02:E6:75:73:C5:C1:95:21:51:5E:51:77:EA:14"]
         }
     }
 ]
